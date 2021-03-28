@@ -15,7 +15,6 @@ python 3.5, pyTorch >= 1.4.0 (from https://pytorch.org/), numpy, Pillow, dlib, c
 
 
 ## Results
-![Reesult](img/exp.png)
-![Reesult](img/ourf.png)
-More Results can be found in our website: https://forawardstar.github.io/EDIT-Project-Page/
+![Reesult](img/content1.png)
+![Reesult](img/style1.png)
 

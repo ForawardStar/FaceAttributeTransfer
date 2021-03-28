@@ -15,6 +15,8 @@ python 3.5, pyTorch >= 1.4.0 (from https://pytorch.org/), numpy, Pillow, dlib, c
 
 
 ## Results
-![Reesult](img/content1.png)
-![Reesult](img/style1.png)
-
+![Reesult](img/content2.png)
+![Reesult](img/style2.png)
+![Reesult](img/onlyeyes2.png)
+![Reesult](img/onlymouth2.png)
+![Reesult](img/onlyface2.png)
